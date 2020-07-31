@@ -12,6 +12,7 @@ public class myProgress {
             Integer[] ss ={0,0,0,0,0};
 
         }
+        System.out.println(213);
     }
 }
 
